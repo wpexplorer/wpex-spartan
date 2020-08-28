@@ -1,0 +1,1933 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: LuxMag WordPress Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-29 17:31-0700\n"
+"PO-Revision-Date: 2016-07-05 15:23-0800\n"
+"Last-Translator: AJ Clarke <wpexplorer@gmail.com>\n"
+"Language-Team: WPExplorer.com\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n;_nx;_n:1,2;_x:1,2c\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: inc/vendor/tgmpa\n"
+
+#: 404.php:17
+msgid "Unfortunately, the page you tried accessing could not be retrieved."
+msgstr ""
+
+#: author.php:21
+msgid "Articles Written By"
+msgstr ""
+
+#: author.php:27
+msgid "This author has written 1 article"
+msgstr ""
+
+#: author.php:29
+#, php-format
+msgid "This author has written %s articles"
+msgstr ""
+
+#: comments.php:27
+msgid "There is 1 comment for this article"
+msgstr ""
+
+#: comments.php:29
+#, php-format
+msgid "There are %s comments for this article"
+msgstr ""
+
+#: comments.php:44
+msgid "Newer Comments &larr;"
+msgstr ""
+
+#: comments.php:47
+msgid "&rarr; Older Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:68
+msgid "Cancel comment reply"
+msgstr ""
+
+#: functions.php:142 inc/customizer/panels/image-sizes.php:47
+msgid "Top"
+msgstr ""
+
+#: functions.php:143 inc/customizer/panels/general.php:27
+msgid "Main"
+msgstr ""
+
+#: functions.php:144 inc/customizer/panels/styling.php:841
+msgid "Footer"
+msgstr ""
+
+#: functions.php:310
+msgid "Browser Categories"
+msgstr ""
+
+#: functions.php:311 inc/customizer/panels/general.php:281
+msgid "Close navigation"
+msgstr ""
+
+#: functions.php:314
+msgid "Username"
+msgstr ""
+
+#: functions.php:315
+msgid "Password"
+msgstr ""
+
+#: functions.php:359
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:361
+msgid "Widgets in this area are used in the sidebar region."
+msgstr ""
+
+#: functions.php:370
+msgid "Footer 1"
+msgstr ""
+
+#: functions.php:372
+msgid "Widgets in this area are used in the first footer region."
+msgstr ""
+
+#: functions.php:382
+msgid "Footer 2"
+msgstr ""
+
+#: functions.php:384
+msgid "Widgets in this area are used in the second footer region."
+msgstr ""
+
+#: functions.php:395
+msgid "Footer 3"
+msgstr ""
+
+#: functions.php:397
+msgid "Widgets in this area are used in the third footer region."
+msgstr ""
+
+#: functions.php:408
+msgid "Footer 4"
+msgstr ""
+
+#: functions.php:410
+msgid "Widgets in this area are used in the fourth footer region."
+msgstr ""
+
+#: functions.php:460
+msgid "Website Name"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:47
+msgid "Please Try Again"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:131
+msgid "Remove Embed"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_ajax.php:134
+#, php-format
+msgid "No oEmbed Results Found for %s. View more info at"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:150
+msgid "Add Row"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:178
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "Remove"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:477
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:515
+msgid "Add or Upload File"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:488
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:534
+msgid "Remove Image"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "File:"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:499
+#: inc/classes/custom-metaboxes/helpers/cmb_Meta_Box_types.php:542
+msgid "Download"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/init.php:243
+msgid "Clear"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/init.php:244 inc/customizer/controls.php:330
+#: inc/customizer/panels/typography.php:165
+#: inc/customizer/panels/typography.php:188
+#: inc/customizer/panels/typography.php:207 inc/meta-config.php:38
+#: inc/meta-config.php:124
+msgid "Default"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/init.php:245
+msgid "Select Color"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/init.php:246
+msgid "Current Color"
+msgstr ""
+
+#: inc/classes/custom-metaboxes/init.php:1226
+msgid "Save"
+msgstr ""
+
+#: inc/comments-callback.php:26
+msgid "Pingback:"
+msgstr ""
+
+#: inc/comments-callback.php:53 inc/customizer/panels/general.php:783
+#: inc/customizer/panels/general.php:866 inc/widgets/widget-posts-icons.php:181
+#: inc/widgets/widget-posts-thumbnails.php:244
+#: inc/widgets/widget-recent-news.php:243 inc/widgets/widget-slider.php:236
+msgid "Author"
+msgstr ""
+
+#: inc/comments-callback.php:62
+#, php-format
+msgctxt "1: date"
+msgid "%1$s"
+msgstr ""
+
+#: inc/comments-callback.php:63
+msgid "at"
+msgstr ""
+
+#: inc/comments-callback.php:67
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/comments-callback.php:74
+msgid "Reply to this message"
+msgstr ""
+
+#: inc/core-functions.php:188 inc/core-functions.php:190
+#: inc/customizer/panels/general.php:690
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/controls.php:62
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: inc/customizer/panels/general.php:18
+#: inc/customizer/panels/image-sizes.php:28
+msgid "General"
+msgstr ""
+
+#: inc/customizer/panels/general.php:38
+msgid "Enable Responsive Design"
+msgstr ""
+
+#: inc/customizer/panels/general.php:51
+msgid "Comments on Pages"
+msgstr ""
+
+#: inc/customizer/panels/general.php:64
+msgid "Custom WP Gallery Output"
+msgstr ""
+
+#: inc/customizer/panels/general.php:77
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/panels/general.php:82
+msgid "Pagination"
+msgstr ""
+
+#: inc/customizer/panels/general.php:83
+msgid "Older/Newer"
+msgstr ""
+
+#: inc/customizer/panels/general.php:94
+msgid "Post Thumbs In Admin Dashboard"
+msgstr ""
+
+#: inc/customizer/panels/general.php:107
+msgid "Featured Category Entry"
+msgstr ""
+
+#: inc/customizer/panels/general.php:119 inc/customizer/panels/styling.php:799
+msgid "Top Bar"
+msgstr ""
+
+#: inc/customizer/panels/general.php:130
+msgid "Enable Topbar"
+msgstr ""
+
+#: inc/customizer/panels/general.php:143
+msgid "Enable Topbar Date"
+msgstr ""
+
+#: inc/customizer/panels/general.php:156
+msgid "Enable Topbar Search"
+msgstr ""
+
+#: inc/customizer/panels/general.php:164
+msgid "None"
+msgstr ""
+
+#: inc/customizer/panels/general.php:182
+msgid "Login Page URL"
+msgstr ""
+
+#: inc/customizer/panels/general.php:187
+msgid ""
+"Select a page to add a login/logout link automatically to the end of the top "
+"bar menu."
+msgstr ""
+
+#: inc/customizer/panels/general.php:197 inc/customizer/panels/general.php:413
+#: inc/customizer/panels/styling.php:806
+msgid "Header"
+msgstr ""
+
+#: inc/customizer/panels/general.php:207
+msgid "Image Logo"
+msgstr ""
+
+#: inc/customizer/panels/general.php:219
+msgid "Retina Image Logo"
+msgstr ""
+
+#: inc/customizer/panels/general.php:231
+msgid "Logo Image Height For Retina"
+msgstr ""
+
+#: inc/customizer/panels/general.php:235
+msgid ""
+"Enter the standard height in pixels of your standard logo. This is used to "
+"set your retina logo to the correct dimensions"
+msgstr ""
+
+#: inc/customizer/panels/general.php:241 partials/header-branding.php:21
+msgid "Edit your subheading via the theme customizer."
+msgstr ""
+
+#: inc/customizer/panels/general.php:246
+msgid "Subheading Under Logo"
+msgstr ""
+
+#: inc/customizer/panels/general.php:259
+msgid "Fixed Navigation On Scroll"
+msgstr ""
+
+#: inc/customizer/panels/general.php:268
+msgid "Browse Categories"
+msgstr ""
+
+#: inc/customizer/panels/general.php:272
+msgid "Mobile Menu: Open Text"
+msgstr ""
+
+#: inc/customizer/panels/general.php:285
+msgid "Mobile Menu: Close Text"
+msgstr ""
+
+#: inc/customizer/panels/general.php:298
+msgid "Layouts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:310
+msgid "Default Entry Style"
+msgstr ""
+
+#: inc/customizer/panels/general.php:315
+#: inc/widgets/widget-posts-thumbnails.php:222
+msgid "Left Thumbnail"
+msgstr ""
+
+#: inc/customizer/panels/general.php:316
+msgid "2 Columns"
+msgstr ""
+
+#: inc/customizer/panels/general.php:328
+msgid "Site Layout"
+msgstr ""
+
+#: inc/customizer/panels/general.php:333 inc/meta-config.php:42
+#: inc/meta-config.php:128
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/panels/general.php:334 inc/meta-config.php:46
+#: inc/meta-config.php:132
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/panels/general.php:345
+msgid "Footer Widget Columns"
+msgstr ""
+
+#: inc/customizer/panels/general.php:370
+msgid "Category Colors"
+msgstr ""
+
+#: inc/customizer/panels/general.php:401
+msgid "Advertisements"
+msgstr ""
+
+#: inc/customizer/panels/general.php:427
+msgid "Post: Before Media/Title"
+msgstr ""
+
+#: inc/customizer/panels/general.php:441
+msgid "Post Content: Top"
+msgstr ""
+
+#: inc/customizer/panels/general.php:445
+msgid ""
+"This ad is floated to the left and a 250x250 or 300x250 ad will work best."
+msgstr ""
+
+#: inc/customizer/panels/general.php:456
+msgid "Post Content: Bottom"
+msgstr ""
+
+#: inc/customizer/panels/general.php:470
+msgid "Homepage: Top"
+msgstr ""
+
+#: inc/customizer/panels/general.php:484
+msgid "Homepage: Bottom"
+msgstr ""
+
+#: inc/customizer/panels/general.php:498
+msgid "Archive: Top"
+msgstr ""
+
+#: inc/customizer/panels/general.php:512
+msgid "Archive: Bottom"
+msgstr ""
+
+#: inc/customizer/panels/general.php:535
+msgid "SEO"
+msgstr ""
+
+#: inc/customizer/panels/general.php:546
+msgid "Disable Links In Comments"
+msgstr ""
+
+#: inc/customizer/panels/general.php:560
+msgid "Sidebar Heading Tags"
+msgstr ""
+
+#: inc/customizer/panels/general.php:575
+msgid "Footer Heading Tags"
+msgstr ""
+
+#: inc/customizer/panels/general.php:589
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/customizer/panels/general.php:600
+msgid "Enable Social Sharing Above Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:613
+msgid "Enable Social Sharing Below Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:628
+msgid "Enabled Services"
+msgstr ""
+
+#: inc/customizer/panels/general.php:648 partials/site-copyright.php:25
+msgid "Copyright"
+msgstr ""
+
+#: inc/customizer/panels/general.php:659
+msgid "Custom Copyright"
+msgstr ""
+
+#: inc/customizer/panels/general.php:671
+#: inc/customizer/panels/image-sizes.php:72
+msgid "Entries"
+msgstr ""
+
+#: inc/customizer/panels/general.php:682
+msgid "Excerpt Lengths"
+msgstr ""
+
+#: inc/customizer/panels/general.php:694
+msgid "Entry Read More Link Text"
+msgstr ""
+
+#: inc/customizer/panels/general.php:706
+msgid "Ignore More Tag"
+msgstr ""
+
+#: inc/customizer/panels/general.php:719
+msgid "Entries display?"
+msgstr ""
+
+#: inc/customizer/panels/general.php:724
+msgid "The Excerpt"
+msgstr ""
+
+#: inc/customizer/panels/general.php:725
+msgid "The Content"
+msgstr ""
+
+#: inc/customizer/panels/general.php:736
+msgid "Entry Read More Link"
+msgstr ""
+
+#: inc/customizer/panels/general.php:749
+msgid "Entry Video/Audio Embeds"
+msgstr ""
+
+#: inc/customizer/panels/general.php:763
+msgid "Entry Featured Image Lightbox"
+msgstr ""
+
+#: inc/customizer/panels/general.php:778
+msgid "Entry Meta Displays?"
+msgstr ""
+
+#: inc/customizer/panels/general.php:782 inc/customizer/panels/general.php:865
+#: inc/customizer/panels/general.php:930 inc/widgets/widget-posts-icons.php:178
+#: inc/widgets/widget-posts-thumbnails.php:241
+#: inc/widgets/widget-recent-news.php:240 inc/widgets/widget-slider.php:233
+msgid "Date"
+msgstr ""
+
+#: inc/customizer/panels/general.php:784 inc/customizer/panels/general.php:867
+#: inc/widgets/widget-posts-icons.php:194
+#: inc/widgets/widget-posts-thumbnails.php:257
+#: inc/widgets/widget-recent-news.php:256 inc/widgets/widget-slider.php:248
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/panels/general.php:785 inc/customizer/panels/general.php:868
+#: inc/widgets/widget-tabs.php:85
+msgid "Comments"
+msgstr ""
+
+#: inc/customizer/panels/general.php:796
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:807
+msgid "Featured Image on Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:820
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer/panels/general.php:833
+msgid "Post Author Box"
+msgstr ""
+
+#: inc/customizer/panels/general.php:846
+msgid "Next & Previous Post Links"
+msgstr ""
+
+#: inc/customizer/panels/general.php:861
+msgid "Post Meta Displays?"
+msgstr ""
+
+#: inc/customizer/panels/general.php:880
+#: inc/customizer/panels/image-sizes.php:145 partials/post-related.php:96
+msgid "Related Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:893
+msgid "Related Posts from Current Category"
+msgstr ""
+
+#: inc/customizer/panels/general.php:897
+msgid ""
+"If enabled the related posts section will only display posts from the same "
+"categories that the current post belongs to."
+msgstr ""
+
+#: inc/customizer/panels/general.php:907
+msgid "Related Posts Order"
+msgstr ""
+
+#: inc/customizer/panels/general.php:912 inc/widgets/widget-posts-icons.php:168
+#: inc/widgets/widget-posts-thumbnails.php:231
+#: inc/widgets/widget-recent-news.php:230 inc/widgets/widget-slider.php:224
+msgid "Descending"
+msgstr ""
+
+#: inc/customizer/panels/general.php:913 inc/widgets/widget-posts-icons.php:169
+#: inc/widgets/widget-posts-thumbnails.php:232
+#: inc/widgets/widget-recent-news.php:231 inc/widgets/widget-slider.php:225
+msgid "Ascending"
+msgstr ""
+
+#: inc/customizer/panels/general.php:924
+msgid "Related Posts Orderby"
+msgstr ""
+
+#: inc/customizer/panels/general.php:929 inc/widgets/widget-posts-icons.php:182
+#: inc/widgets/widget-posts-thumbnails.php:245
+#: inc/widgets/widget-recent-news.php:244 inc/widgets/widget-slider.php:237
+msgid "Random"
+msgstr ""
+
+#: inc/customizer/panels/general.php:931 inc/widgets/widget-posts-icons.php:180
+#: inc/widgets/widget-posts-thumbnails.php:243
+#: inc/widgets/widget-recent-news.php:242 inc/widgets/widget-slider.php:235
+msgid "Modified"
+msgstr ""
+
+#: inc/customizer/panels/general.php:932
+msgid "Menu Order"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:17
+msgid "Homepage"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:21
+msgid "None - Disable"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:22 inc/widgets/widget-posts-icons.php:147
+#: inc/widgets/widget-posts-thumbnails.php:185
+#: inc/widgets/widget-slider.php:190
+msgid "Recent Posts"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:50
+msgid "Homepage Categories"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:52
+msgid ""
+"By default the Hompeage template displays all parent categories and a list "
+"of the recent posts for that category. Here you can elect the categories to "
+"include. Uncheck any you want to exclude."
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:79
+msgid "Posts Per Category"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:82
+msgid ""
+"How many posts do you wish to show per category. This number includes the "
+"first featured post"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:92
+#: inc/customizer/panels/image-sizes.php:180
+msgid "Homepage Slider"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:104
+msgid "Homepage Slider Content"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:119
+msgid "Homepage Slider Count"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:132
+#: inc/customizer/panels/homepage.php:240
+msgid "Exclude Posts"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:136
+#: inc/customizer/panels/homepage.php:244
+msgid ""
+"Check this box to exclude posts included in the carousel from the homepage "
+"grid."
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:147
+msgid "Automatic Slideshow"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:161
+msgid "Slideshow Speed"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:174
+msgid "Homepage Slider Alternative"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:187
+#: inc/customizer/panels/image-sizes.php:216
+msgid "Homepage Carousel"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:194 partials/homepage-carousel.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:199
+msgid "Homepage Carousel Heading"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:212
+msgid "Homepage Carousel Content"
+msgstr ""
+
+#: inc/customizer/panels/homepage.php:227
+msgid "Homepage Carousel Count"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:18
+msgid "Image Sizes"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:19
+msgid ""
+"This theme uses a built-in image resizing function based on the WordPress "
+"wp_get_image_editor() function so you can quickly alter the image sizes on "
+"your site without having to regenerate the thumbnails. If you are more "
+"concerend with site speed then you will probably want to set your entry "
+"image sizes to a different crop then your posts and if your main priority is "
+"storage space you will probably want to set entry sizes the same as post "
+"sizes.<br /><br />"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:40
+msgid "Vertical Image Crop Location"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:45
+msgid ""
+"Select the default image cropping location. This will only affect newly "
+"uploaded/cropped images."
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:48
+msgid "Middle"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:58
+msgid "Enable Retina.js."
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:63
+msgid ""
+"This will create a second cropped version of every image that is 2x as big "
+"as the original."
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:75
+msgid ""
+"Select your custom image resizing. You may enter \"9999\" for both the "
+"height and the width and it will remove all cropping, but if you enter "
+"\"9999\" for only the width or only the height then it will resize based on "
+"the defined size for the oposite side. For example setting the height to "
+"\"9999\" will keep all your image proportions and simply shrink down to the "
+"max width value."
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:85
+msgid "Entry Image Width"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:97
+msgid "Entry Image Height"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:109
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:121
+msgid "Post Image Width"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:133
+msgid "Post Image Height"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:156
+msgid "Related Entry Image Width"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:168
+msgid "Related Entry Image Height"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:192
+msgid "Homepage Slider Image Width"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:204
+msgid "Homepage Slider Image Height"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:228
+msgid "Homepage Carousel Image Width"
+msgstr ""
+
+#: inc/customizer/panels/image-sizes.php:240
+msgid "Homepage Carousel Image Height"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:40
+msgid "Top Bar Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:48
+msgid "Top Bar Bottom Border"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:56
+msgid "Top Bar Date Borders"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:64
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:72
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:80
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:89
+msgid "Top Bar Menu Divider Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:98
+msgid "Top Bar Menu Bottom Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:106
+msgid "Top Bar Menu Dropdowns Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:114
+msgid "Top Bar Menu Dropdowns Borders"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:122
+msgid "Top Bar Menu Dropdowns Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:130
+msgid "Top Bar Menu Dropdowns Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:139
+msgid "Top Bar Search Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:147
+msgid "Top Bar Search Borders"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:155
+msgid "Top Bar Search Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:163
+msgid "Top Bar Search Icon Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:171
+msgid "Top Bar Mobile Icons Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:179
+msgid "Top Bar Mobile Icons Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:188
+msgid "Top Bar Mobile Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:196
+msgid "Top Bar Mobile Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:204
+msgid "Top Bar Mobile Menu Link Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:213
+msgid "Header Top Padding"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:224
+msgid "Header Bottom Padding"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:235
+msgid "Header Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:243
+msgid "Logo Text Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:251
+msgid "Logo Text Color: Hover"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:259
+msgid "Logo Subheading Text Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:268
+msgid "Menu Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:276
+msgid "Menu Top Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:284
+msgid "Menu Link Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:292
+msgid "Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:300
+msgid "Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:309
+msgid "Menu Link Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:318
+msgid "Active Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:326
+msgid "Active Menu Link Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:334
+msgid "Sub-Menu Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:342
+msgid "Sub-Menu Border"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:350
+msgid "Sub-Menu Link Bottom Border"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:358
+msgid "Sub-Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:366
+msgid "Sub-Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:375
+msgid "Sub-Menu Link Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:384
+msgid "Mobile Menu Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:392
+msgid "Mobile Menu Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:400
+msgid "Mobile Menu Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:409
+msgid "Mobile Menu Borders"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:418
+msgid "Headings With Links Hover"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:427
+msgid "Entry Title Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:436
+msgid "Entry Title Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:445
+msgid "Post/Page Content Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:453
+msgid "Post/Page Content Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:462
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:470
+msgid "Sidebar Link Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:479
+msgid "Readmore Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:487
+msgid "Readmore Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:497
+msgid "Sidebar Title Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:505
+msgid "Sidebar Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:513
+msgid "Calendar Heading Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:521
+msgid "Tag Cloud Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:529
+msgid "Tag Cloud Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:537
+msgid "Tag Cloud Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:546
+msgid "Tag Cloud Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:555
+msgid "Tab Widget Active Tab Border Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:563
+msgid "Tab Widget Text Highlight Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:572
+msgid "Search Widget Submit Button Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:580
+msgid "Search Widget Submit Button Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:588
+msgid "Slider Widget Active Bullet"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:597
+msgid "Theme Button Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:605
+msgid "Theme Button Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:613
+msgid "Theme Button Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:622
+msgid "Theme Button Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:632
+msgid "Footer Widgets Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:640
+msgid "Footer Widgets Text"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:648
+msgid "Footer Widgets Heading"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:656
+msgid "Footer Widgets Links"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:664
+msgid "Footer Widgets Links Hover"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:673
+msgid "Footer Widgets Borders"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:681
+msgid "Footer Bottom Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:689
+msgid "Footer Bottom Text"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:697
+msgid "Footer Bottom Links"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:705
+msgid "Footer Bottom Links Hover"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:715
+msgid "Main Body Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:721
+msgid "Author Comment Label Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:728
+msgid "Author Comment Label Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:734
+msgid "Back To Top Arrow Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:741
+msgid "Back To Top Arrow Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:748
+msgid "Back To Top Arrow Hover Color"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:756
+msgid "Back To Top Arrow Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:764
+msgid "Gallery Lightbox Hover Background"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:794
+msgid "Styling"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:813
+msgid "Menu"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:820
+msgid "Links"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:827
+msgid "Buttons"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:834
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/panels/styling.php:848
+msgid "Other"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:40
+msgid "Body"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:44
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:48
+msgid "Logo Subheading"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:52
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:56
+msgid "Top Menu: Dropdowns"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:60
+msgid "Main Menu"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:64
+msgid "Main Menu: Dropdowns"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:68
+msgid "Post: Entry Title"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:72
+msgid "Post: Single Title"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:76
+msgid "Page Title"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:80
+msgid "Sidebar Widget Heading"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:84
+msgid "Footer Widget Heading"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:88
+msgid "Post H2"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:92
+msgid "Post H3"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:108
+msgid "Typography"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:142
+msgid "Font Family"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:146
+msgid ""
+"To prevent bugs with the customizer make sure to change your family first "
+"before tweaking the design."
+msgstr ""
+
+#: inc/customizer/panels/typography.php:155
+msgid "Note: Not all Fonts support every font weight style."
+msgstr ""
+
+#: inc/customizer/panels/typography.php:159
+msgid "Font Weight"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:166
+msgid "Book: 300"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:167
+msgid "Normal: 400"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:168
+msgid "Semibold: 600"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:169
+msgid "Bold: 700"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:170
+msgid "Extra Bold: 800"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:172
+msgid "Important: Not all fonts support every font-weight."
+msgstr ""
+
+#: inc/customizer/panels/typography.php:182
+msgid "Font Style"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:189
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:190
+msgid "Italic"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:201
+msgid "Text Transform"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:208
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:209
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:210
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:221
+msgid "Font Size"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:226
+msgid "Value in pixels."
+msgstr ""
+
+#: inc/customizer/panels/typography.php:256
+msgid "Line Height"
+msgstr ""
+
+#: inc/customizer/panels/typography.php:274
+msgid "Letter Spacing"
+msgstr ""
+
+#: inc/dashboard-thumbs.php:18
+msgid "Featured Image"
+msgstr ""
+
+#: inc/meta-config.php:24
+msgid "Post Settings"
+msgstr ""
+
+#: inc/meta-config.php:31 inc/meta-config.php:117
+msgid "Layout"
+msgstr ""
+
+#: inc/meta-config.php:50 inc/meta-config.php:136
+msgid "FullWidth"
+msgstr ""
+
+#: inc/meta-config.php:56 inc/widgets/widget-video.php:129
+msgid "Video URL"
+msgstr ""
+
+#: inc/meta-config.php:57
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"function or self-hosted video function."
+msgstr ""
+
+#: inc/meta-config.php:63
+msgid "Video Embed"
+msgstr ""
+
+#: inc/meta-config.php:64
+msgid ""
+"Enter your embed code for your video here as an alternative to the video URL."
+msgstr ""
+
+#: inc/meta-config.php:70
+msgid "Audio URL"
+msgstr ""
+
+#: inc/meta-config.php:71
+msgid ""
+"Enter in an audio URL that is compatible with WordPress's built-in self-"
+"hosted video function."
+msgstr ""
+
+#: inc/meta-config.php:77
+msgid "Disable Entry Embed"
+msgstr ""
+
+#: inc/meta-config.php:78
+msgid ""
+"Check this box to disable the video/audio embed on entries. See the theme "
+"customizer if you wish to do this for all video & audio entries."
+msgstr ""
+
+#: inc/meta-config.php:84
+msgid "Disable Author Bio"
+msgstr ""
+
+#: inc/meta-config.php:85
+msgid "Disable the author bio on this post."
+msgstr ""
+
+#: inc/meta-config.php:91
+msgid "Disable Related Posts"
+msgstr ""
+
+#: inc/meta-config.php:92
+msgid "Disable the related posts on this post."
+msgstr ""
+
+#: inc/meta-config.php:98
+msgid "Disable Featured Image Display (On Post)"
+msgstr ""
+
+#: inc/meta-config.php:99 inc/meta-config.php:143
+msgid ""
+"Check this box to prevent the featured image from displaying on the post."
+msgstr ""
+
+#: inc/meta-config.php:110
+msgid "Page Settings"
+msgstr ""
+
+#: inc/meta-config.php:142
+msgid "Disable Featured Image Display"
+msgstr ""
+
+#: inc/meta-config.php:149
+msgid "Disable Page Title"
+msgstr ""
+
+#: inc/meta-config.php:150
+msgid "Check this box to disable the page title."
+msgstr ""
+
+#: inc/navs.php:57
+msgid "Log Out"
+msgstr ""
+
+#: inc/pagination.php:45 inc/pagination.php:48
+msgid "Previous"
+msgstr ""
+
+#: inc/pagination.php:46 inc/pagination.php:49
+msgid "Next"
+msgstr ""
+
+#: inc/pagination.php:53
+msgid "Pages"
+msgstr ""
+
+#: inc/pagination.php:93
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/pagination.php:96
+msgid "Older Posts"
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:28
+msgid "Recent Comments With Avatars"
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:79 inc/widgets/widget-tabs.php:167
+msgid "Read Comment"
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:88 inc/widgets/widget-tabs.php:175
+msgid "No comments yet."
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:122
+msgid "Recent Comments"
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:128 inc/widgets/widget-flickr.php:112
+#: inc/widgets/widget-social.php:219 inc/widgets/widget-tabs.php:229
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/widget-comments-avatar.php:133
+msgid "Number to Show:"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:28
+msgid "Flickr Stream"
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:118
+msgid "Flickr ID "
+msgstr ""
+
+#: inc/widgets/widget-flickr.php:124
+msgid "Number:"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:28
+msgid "Recent Posts With Icons"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:155
+#: inc/widgets/widget-posts-icons.php:179
+#: inc/widgets/widget-posts-thumbnails.php:199
+#: inc/widgets/widget-posts-thumbnails.php:242
+#: inc/widgets/widget-recent-news.php:207
+#: inc/widgets/widget-recent-news.php:241 inc/widgets/widget-slider.php:205
+#: inc/widgets/widget-slider.php:234 inc/widgets/widget-video.php:124
+msgid "Title"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:160
+#: inc/widgets/widget-posts-thumbnails.php:204
+#: inc/widgets/widget-recent-news.php:212 inc/widgets/widget-slider.php:209
+msgid "Number to Show"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:165
+#: inc/widgets/widget-posts-thumbnails.php:228
+#: inc/widgets/widget-recent-news.php:227 inc/widgets/widget-slider.php:221
+msgid "Order"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:174
+#: inc/widgets/widget-posts-thumbnails.php:237
+#: inc/widgets/widget-recent-news.php:236 inc/widgets/widget-slider.php:229
+msgid "Order By"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:183
+#: inc/widgets/widget-posts-thumbnails.php:246
+#: inc/widgets/widget-recent-news.php:245 inc/widgets/widget-slider.php:238
+msgid "Comment Count"
+msgstr ""
+
+#: inc/widgets/widget-posts-icons.php:197
+#: inc/widgets/widget-posts-thumbnails.php:260
+#: inc/widgets/widget-posts-thumbnails.php:272
+#: inc/widgets/widget-recent-news.php:259
+#: inc/widgets/widget-recent-news.php:271 inc/widgets/widget-slider.php:251
+#: inc/widgets/widget-slider.php:262
+msgid "All"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:28
+msgid "Posts With Thumbnails"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:209
+#: inc/widgets/widget-recent-news.php:217 inc/widgets/widget-slider.php:213
+msgid "Image Crop Width"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:214
+#: inc/widgets/widget-recent-news.php:222 inc/widgets/widget-slider.php:217
+msgid "Image Crop Height"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:219
+#: inc/widgets/widget-social.php:229
+msgid "Style"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:223
+msgid "Top Thumbnail"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:269
+#: inc/widgets/widget-recent-news.php:268 inc/widgets/widget-slider.php:259
+msgid "Format"
+msgstr ""
+
+#: inc/widgets/widget-posts-thumbnails.php:282
+msgid "Disable Date?"
+msgstr ""
+
+#: inc/widgets/widget-recent-news.php:28 inc/widgets/widget-recent-news.php:193
+#: index.php:32
+msgid "Latest News"
+msgstr ""
+
+#: inc/widgets/widget-slider.php:28
+msgid "Slider Widget"
+msgstr ""
+
+#: inc/widgets/widget-slider.php:271
+msgid "Disable Title?"
+msgstr ""
+
+#: inc/widgets/widget-slider.php:275
+msgid "Disable Category Tag?"
+msgstr ""
+
+#: inc/widgets/widget-social.php:28
+msgid "Social Widget"
+msgstr ""
+
+#: inc/widgets/widget-social.php:147
+msgid "Follow Us"
+msgstr ""
+
+#: inc/widgets/widget-social.php:224
+msgid "Description:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:232
+msgid "Color"
+msgstr ""
+
+#: inc/widgets/widget-social.php:233
+msgid "Black"
+msgstr ""
+
+#: inc/widgets/widget-social.php:234
+msgid "Black With Color Hover"
+msgstr ""
+
+#: inc/widgets/widget-social.php:239
+msgid "Type"
+msgstr ""
+
+#: inc/widgets/widget-social.php:242
+msgid "Flat"
+msgstr ""
+
+#: inc/widgets/widget-social.php:243
+msgid "Graphical"
+msgstr ""
+
+#: inc/widgets/widget-social.php:248
+msgid "Link Target:"
+msgstr ""
+
+#: inc/widgets/widget-social.php:251
+msgid "Blank"
+msgstr ""
+
+#: inc/widgets/widget-social.php:252
+msgid "Self"
+msgstr ""
+
+#: inc/widgets/widget-social.php:256
+msgid "Social Links"
+msgstr ""
+
+#: inc/widgets/widget-social.php:257
+msgid ""
+"Enter the full URL to your social profile. You can click and drag andy "
+"social profile to re-order it."
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:28
+msgid "Tabs"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:79
+msgid "Popular"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:82
+msgid "Recent"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:234
+msgid "Popular: Number To Show:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:239
+msgid "Recent: Number To Show:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:244
+msgid "Comments: Number To Show:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:249
+msgid "Image Crop Height:"
+msgstr ""
+
+#: inc/widgets/widget-tabs.php:254
+msgid "Image Crop Width:"
+msgstr ""
+
+#: inc/widgets/widget-video.php:28 templates/archives.php:51
+msgid "Video"
+msgstr ""
+
+#: inc/widgets/widget-video.php:72
+msgid "You forgot to enter a video URL or you entered an incorrect URL."
+msgstr ""
+
+#: inc/widgets/widget-video.php:131
+msgid ""
+"Enter in a video URL that is compatible with WordPress's built-in oEmbed "
+"feature."
+msgstr ""
+
+#: inc/widgets/widget-video.php:135
+msgid "Description"
+msgstr ""
+
+#: partials/contributor.php:24 partials/contributor.php:28
+#: partials/contributor.php:33
+msgid "Posts by"
+msgstr ""
+
+#: partials/contributor.php:28
+msgid "articles"
+msgstr ""
+
+#: partials/contributor.php:38 partials/post-author.php:43
+msgid "Website"
+msgstr ""
+
+#: partials/entry-meta.php:67 partials/post-meta.php:62
+msgid "0 Comments"
+msgstr ""
+
+#: partials/entry-meta.php:67 partials/post-meta.php:62
+msgid "1 Comment"
+msgstr ""
+
+#: partials/entry-meta.php:67 partials/post-meta.php:62
+msgid "% Comments"
+msgstr ""
+
+#: partials/entry-none.php:13
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: partials/entry-none.php:15
+msgid "Sorry, but nothing matched your search terms."
+msgstr ""
+
+#: partials/entry-none.php:17
+msgid "There aren't any posts currently published in this category."
+msgstr ""
+
+#: partials/entry-none.php:19
+msgid "There aren't any posts currently published under this taxonomy."
+msgstr ""
+
+#: partials/entry-none.php:21
+msgid "There aren't any posts currently published under this tag."
+msgstr ""
+
+#: partials/entry-none.php:23
+msgid "This author hasn't written any posts yet."
+msgstr ""
+
+#: partials/entry-none.php:25
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for."
+msgstr ""
+
+#: partials/header-nav.php:33
+msgid "Click here to navigate"
+msgstr ""
+
+#: partials/header-nav.php:39
+msgid "WordPress Menu Editor"
+msgstr ""
+
+#: partials/header-nav.php:39
+msgid "Create and assign your menu"
+msgstr ""
+
+#: partials/post-author.php:35 partials/post-author.php:39
+msgid "Visit Author Page"
+msgstr ""
+
+#: partials/post-author.php:39
+msgid "Authored by"
+msgstr ""
+
+#: partials/post-edit.php:21
+msgid "Edit this post"
+msgstr ""
+
+#: partials/post-meta.php:43
+msgid "Posted on"
+msgstr ""
+
+#: partials/post-meta.php:49
+msgid "by"
+msgstr ""
+
+#: partials/post-meta.php:55
+msgid "in"
+msgstr ""
+
+#: partials/post-meta.php:62
+msgid "with"
+msgstr ""
+
+#: partials/post-pagination.php:33 partials/post-pagination.php:43
+msgid "Next Article"
+msgstr ""
+
+#: partials/post-pagination.php:33
+msgid "Previous Article"
+msgstr ""
+
+#: partials/post-share.php:43
+msgid "Please Share"
+msgstr ""
+
+#: partials/post-share.php:52
+msgid "Share on Twitter"
+msgstr ""
+
+#: partials/post-share.php:57
+msgid "Share on Facebook"
+msgstr ""
+
+#: partials/post-share.php:62
+msgid "Share on Google+"
+msgstr ""
+
+#: partials/post-share.php:67
+msgid "Share on Pinterest"
+msgstr ""
+
+#: partials/post-share.php:72
+msgid "Share on LinkedIn"
+msgstr ""
+
+#: partials/post-tags.php:24
+msgid "Tags"
+msgstr ""
+
+#: partials/topbar-search.php:25
+msgid "Type your search & hit enter"
+msgstr ""
+
+#: search.php:15
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search..."
+msgstr ""
+
+#: templates/archives.php:27
+msgid "Latest Posts"
+msgstr ""
+
+#: templates/archives.php:44
+msgid "Archives by Month"
+msgstr ""
+
+#: templates/archives.php:48
+msgid "Archives by Format"
+msgstr ""
+
+#: templates/archives.php:50
+msgid "Gallery"
+msgstr ""
+
+#: templates/archives.php:52
+msgid "Audio"
+msgstr ""
+
+#: templates/archives.php:53
+msgid "Quotes"
+msgstr ""
+
+#: templates/archives.php:57
+msgid "Archives by Category"
+msgstr ""
+
+#: templates/login.php:31
+msgid "A <strong>username</strong> is required for registration."
+msgstr ""
+
+#: templates/login.php:33
+msgid "Sorry, that username already exists!"
+msgstr ""
+
+#: templates/login.php:38
+msgid "An <strong>email</strong> is required for registration."
+msgstr ""
+
+#: templates/login.php:40
+msgid "You must enter a valid email address."
+msgstr ""
+
+#: templates/login.php:42
+msgid "Sorry, that email address is already used!"
+msgstr ""
+
+#: templates/login.php:47
+msgid "A <strong>password</strong> is required for registration."
+msgstr ""
+
+#: templates/login.php:52
+msgid "Password do not match."
+msgstr ""
+
+#: templates/login.php:80
+msgid "You are already logged in as:"
+msgstr ""
+
+#: templates/login.php:81
+msgid "Logout"
+msgstr ""
+
+#: templates/login.php:87
+msgid "Login to an account"
+msgstr ""
+
+#: templates/login.php:99
+msgid "Lost Password? Recover it here."
+msgstr ""
+
+#: templates/login.php:99
+msgid "Lost Password?"
+msgstr ""
+
+#: templates/login.php:107
+msgid "Registration successful. You can now log in above."
+msgstr ""
+
+#: templates/login.php:116
+msgid "Register for an account"
+msgstr ""
+
+#: templates/login.php:122 templates/login.php:160
+msgid "Strength indicator"
+msgstr ""
+
+#: templates/login.php:161
+msgid "Very weak"
+msgstr ""
+
+#: templates/login.php:162
+msgid "Weak"
+msgstr ""
+
+#: templates/login.php:163
+msgid "Medium"
+msgstr ""
+
+#: templates/login.php:164
+msgid "Strong"
+msgstr ""
+
+#: templates/login.php:165
+msgid "Mismatch"
+msgstr ""
